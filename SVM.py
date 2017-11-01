@@ -5,7 +5,7 @@ import glob
 import math
 import cvxopt
 
-corpus = "F:/MS_OneDriveBkp/Fall16/ML/HW2"
+corpus = "F:/MS_OneDriveBkp/Fall16/ML/HW2"   # add the pic path
 train_images={}
 test_images={}
 train_ratio=0.5
